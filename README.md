@@ -1,3 +1,3 @@
 # QotD Web
 
-Web front end for Quote of the Day application
+Web front end for Quote of the Day application for IBM Concert
